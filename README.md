@@ -5,7 +5,8 @@ Final project from 2021 for 'Understanding of neural network vision on a univers
 --------------------------------------------------------------------------------------------
 quick guide:
 
-Download the Final report to fully view it. 
+Download the Final report to fully view it. model and dataset were not added due to size.
+
 project overview - go to Chapter 1 for the project overview. chapter 2 also goes over research which can give a better insight into different steps.
 code - go to Chapter 4 for a more detailed understanding. 4.7 overs over the needed requirements and use of code.
 results - Chapter 5 goes over how I came to these results while Chapter 6 has the final understanding written.
