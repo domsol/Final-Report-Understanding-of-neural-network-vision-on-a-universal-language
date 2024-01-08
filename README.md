@@ -1,20 +1,25 @@
 # Final-Report-Understanding-of-neural-network-vision-on-a-universal-language
-Final project from 2021 for 'Understanding of neural network vision on a universal language'. All details can be found in the Final report pdf.
+The final project for 3rd year of bachelor's degree at the University of Hertfordshire. From 2021 titled 'Understanding of neural network vision on a universal language'. All details can be found in the Final report pdf.
 
 
 --------------------------------------------------------------------------------------------
-quick guide:
+Quick guide:
 
-Download the Final report to fully view it. model and dataset were not added due to size.
+Download the Final report for full details on the project's goals, research, method and outcome. AI model and Dataset were not added due to size however following the code and links this can be reproduced.
 
-project overview - go to Chapter 1 for the project overview. chapter 2 also goes over research which can give a better insight into different steps.
-code - go to Chapter 4 for a more detailed understanding. 4.7 overs over the needed requirements and use of code.
-results - Chapter 5 goes over how I came to these results while Chapter 6 has the final understanding written.
+Chapters:
 
-All code is written in Python. 
+Chapter 1 goes over the project overview.
+Chapter 2 goes over research on AI and image recognition.
+Chapter 3 goes over the methodology of all required steps.
+Chapter 4 for a more detailed understanding of the code and requirements.
+Chapter 5 goes over the outcome and results.
+Chapter 6 final understanding.
+
+All code is written in Python. Details on code sourced within the PFD document: Final Report.pdf.
 uses of the code in steps
-1. The code uses an existing database of traffic lights (not included due to size) to first filter and normalise the images.
-2. Then it takes this data and uses it to train a trained machine learning AI.
-3. This lets the user access the machine learning AI to test how correct it is and also to input their own images and get the guessed result.
-4. then using the AI it can take the matrix images the AI sees in its nodes and display them to the user for research.
+1. The code takes from a set file an existing database of traffic lights (not included due to size) to first filter and normalise the images.
+2. These filtered images are used to train a machine learning AI.
+3. This lets the user access the AI to test its correctness and input their new images for the machine-guided result.
+4. The code can take the matrix images from different node levels within the neural network to identify patterns.
 
