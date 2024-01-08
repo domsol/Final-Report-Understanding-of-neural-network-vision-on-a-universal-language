@@ -22,4 +22,3 @@ uses of the code in steps
 2. These filtered images are used to train a machine learning AI.
 3. This lets the user access the AI to test its correctness and input their new images for the machine-guided result.
 4. The code can take the matrix images from different node levels within the neural network to identify patterns.
-
